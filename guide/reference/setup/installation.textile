@@ -72,4 +72,4 @@ p. The service uses a Java Service Wrapper which is a small native wrapper aroun
 
 p. Note, passing JVM level configuration (such as -X parameters) is achieved using configuration within the @elasticsearch.conf@ file. 
 
-p. Use the @ES_MIN_MEM@ and @ES_MAX_MEM@ environment variables to set the minimum and maximum memory allocation for the JVM (set in megabytes). It defaults to @256@ and @1024@ respectively.
+p. Use the @ES_MIN_MEM@ and @ES_MAX_MEM@ environment variables to set the minimum and maximum memory allocation for the JVM (set in Megabytes). It defaults to @256@ and @1024@ respectively.
